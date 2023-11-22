@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AgusFleitas/TicTacToe/issues"
   },
-  "homepage": "https://github.com/AgusFleitas/TicTacToe#readme"
+  "homepage": "https://github.com/AgusFleitas/TicTacToe#readme",
+  "dependencies": {
+    "canvas-confetti": "1.9.1"
+  }
 }
